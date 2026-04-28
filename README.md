@@ -11,7 +11,7 @@ Una difesa efficace nasce dalla comprensione profonda delle tecniche offensive; 
 
 ---
 
-### 🛠️ Hard Skills
+### 🔐 Hard Skills
 
 <br>
 
