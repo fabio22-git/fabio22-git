@@ -1,4 +1,64 @@
-## Hi there 👋
+<div align="center">
+  <h1>Ciao, sono Fabio! 👋</h1>
+  <h3>Junior Cyber Security Specialist | Blue Team & SOC Analyst</h3>
+</div>
+
+---
+
+### 👤 Chi Sono
+Sono un professionista in formazione presso **EPICODE Institute of Technology**, dove sto completando un Master intensivo di oltre 450 ore in Cybersecurity & Ethical Hacking. 
+
+Il mio obiettivo è specializzarmi nella **difesa attiva** e nelle **Security Operations**. Credo fermamente che per proteggere un'infrastruttura sia necessario comprendere a fondo le logiche degli attaccanti: per questo unisco una solida base di Ethical Hacking a un focus rigoroso sulla Network Defense e il Vulnerability Management.
+
+---
+
+### 🛠️ Tech Stack & Competenze
+
+**Security Operations & Analysis**
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2B2D31?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+- Monitoraggio e analisi log (Splunk), Threat Intelligence (MITRE ATT&CK), Vulnerability Assessment.
+
+**Network & Infrastructure**
+![Cisco](https://img.shields.io/badge/Cisco-049BDB?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-E02424?style=for-the-badge&logo=fortinet&logoColor=white)
+- Cisco Packet Tracer, segmentazione VLAN, configurazione ACL, hardening perimetrale (ASA Firewall).
+
+**Systems & Tools**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CF1?style=for-the-badge&logo=kali-linux&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+- Amministrazione sistemi Linux/Windows, virtualizzazione con UTM su macOS (architetture ARM).
+
+---
+
+### 🚀 Progetti in Evidenza
+
+- 🛡️ **[Mr. Robot Crew - Progetto Theta](https://github.com/fabio22-git/progetto-theta)**: Progettazione di un'architettura di rete aziendale Zero Trust, segmentazione VLAN e protezione della DMZ.
+- 🔍 **[Matrix Rebels - Security Audit](https://github.com/fabio22-git/matrix-rebels)**: Adversary Emulation, risoluzione di CTF e reportistica tecnica focalizzata sulla mitigazione delle minacce.
+
+---
+
+### 📈 Focus Attuale
+- 🎯 Preparazione per la certificazione **Cisco 200-201 CyberOps Associate**.
+- 🛡️ Studio continuo su Threat Hunting e hardening dei sistemi.
+
+---
+
+### 📫 Contatti:
+
+<div align="center">
+  <a href="https://linkedin.com/in/fabiocapano22/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/fabio22">
+    <img src="https://img.shields.io/badge/TryHackMe-111928?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+</div>
 
 <!--
 **fabio22-git/fabio22-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
