@@ -22,8 +22,6 @@ Una difesa efficace nasce dalla comprensione profonda delle tecniche offensive; 
 
 - Monitoraggio log (Splunk), mappatura MITRE ATT&CK, Vulnerability Assessment e analisi della sicurezza web tramite Burp Suite.
 
----
-
 **Network & Infrastructure**
 
 ![Cisco](https://img.shields.io/badge/Cisco-049BDB?style=for-the-badge&logo=cisco&logoColor=white)
@@ -31,8 +29,6 @@ Una difesa efficace nasce dalla comprensione profonda delle tecniche offensive; 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 - Progettazione su Cisco Packet Tracer, segmentazione VLAN, configurazione di ACL e hardening perimetrale con ASA Firewall.
-
----
 
 **Systems & Tools**
 
@@ -43,8 +39,6 @@ Una difesa efficace nasce dalla comprensione profonda delle tecniche offensive; 
 ![FlareVM](https://img.shields.io/badge/FlareVM-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 - Amministrazione di sistemi operativi e gestione di laboratori complessi (pfSense, FlareVM per malware analysis e Metasploitable2 come target vulnerabile) tramite UTM su architetture macOS ARM.
-
----
 
 ### 🚀 Progetti in Evidenza
 
