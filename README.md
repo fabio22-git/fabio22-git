@@ -13,6 +13,7 @@ Una difesa efficace nasce dalla comprensione profonda delle tecniche offensive; 
 
 ### 🛠️ Tech Stack & Competenze
 
+
 **Security Operations & Analysis**
 
 ![Nmap](https://img.shields.io/badge/Nmap-2B2D31?style=for-the-badge&logo=nmap&logoColor=white)
