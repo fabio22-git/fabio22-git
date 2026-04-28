@@ -1,5 +1,5 @@
 # 👨‍💻 whoami
-### Fabio | Junior Cyber Security Specialist | Blue Team & SOC Analyst
+### Fabio | Junior Cybersecurity Specialist | Blue Team & SOC Analyst
 
 ---
 
