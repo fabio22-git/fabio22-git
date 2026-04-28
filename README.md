@@ -4,7 +4,7 @@
 ---
 
 ### 🔍 Discovery
-Sono un professionista in formazione presso **EPICODE Institute of Technology**, impegnato nel completamento un Master intensivo di oltre 450 ore in Cybersecurity & Ethical Hacking. 
+Sono un professionista in formazione presso **EPICODE Institute of Technology**, impegnato nel completamento un Master di oltre 450 ore in Cybersecurity & Ethical Hacking. 
 
 Specializzando il mio profilo nella difesa proattiva, unisco la capacità di analisi delle minacce tipica del **Blue Team** alla comprensione tecnica delle vulnerabilità. 
 Una difesa efficace nasce dalla comprensione profonda delle tecniche offensive; il mio obiettivo è trasformare la comprensione delle tecniche offensive in strategie di difesa solida, combinando Ethical Hacking e Network Hardening per mitigare i rischi in modo tempestivo ed efficace.
