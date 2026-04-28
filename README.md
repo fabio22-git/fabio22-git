@@ -36,8 +36,8 @@ Il mio obiettivo è specializzarmi nella **difesa attiva** e nelle **Security Op
 **Systems & Tools:**
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CF1?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-2B2D31?style=for-the-badge&logo=pfsense&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CF1?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploitable2](https://img.shields.io/badge/Metasploitable2-E02424?style=for-the-badge&logo=linux&logoColor=white)
 ![FlareVM](https://img.shields.io/badge/FlareVM-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
