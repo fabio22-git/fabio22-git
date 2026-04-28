@@ -13,7 +13,7 @@ Una difesa efficace nasce dalla comprensione profonda delle tecniche offensive; 
 
 ### 🛠️ Tech Stack & Competenze
 
-**Security Operations & Analysis:**
+**Security Operations & Analysis**
 
 ![Nmap](https://img.shields.io/badge/Nmap-2B2D31?style=for-the-badge&logo=nmap&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
@@ -24,7 +24,7 @@ Una difesa efficace nasce dalla comprensione profonda delle tecniche offensive; 
 
 <br>
 
-**Network & Infrastructure:**
+**Network & Infrastructure**
 
 ![Cisco](https://img.shields.io/badge/Cisco-049BDB?style=for-the-badge&logo=cisco&logoColor=white)
 ![Firewall](https://img.shields.io/badge/Firewall-E02424?style=for-the-badge&logo=fortinet&logoColor=white)
@@ -34,7 +34,7 @@ Una difesa efficace nasce dalla comprensione profonda delle tecniche offensive; 
 
 <br>
 
-**Systems & Tools:**
+**Systems & Tools**
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-2B2D31?style=for-the-badge&logo=pfsense&logoColor=white)
@@ -59,7 +59,7 @@ Una difesa efficace nasce dalla comprensione profonda delle tecniche offensive; 
 
 ---
 
-### 📫 Contatti:
+### 📫 Contatti
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](INSERISCI_QUI_IL_LINK_AL_TUO_LINKEDIN)
 &nbsp;&nbsp;
