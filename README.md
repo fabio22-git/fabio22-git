@@ -14,24 +14,34 @@ Il mio obiettivo è specializzarmi nella **difesa attiva** e nelle **Security Op
 
 ### 🛠️ Tech Stack & Competenze
 
-**Security Operations & Analysis**
- ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
- ![Nessus](https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white)
- ![Nmap](https://img.shields.io/badge/Nmap-2B2D31?style=for-the-badge&logo=nmap&logoColor=white)
- ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
-- Monitoraggio e analisi log (Splunk), Threat Intelligence (MITRE ATT&CK), Vulnerability Assessment.
+**Security Operations & Analysis:**
 
-**Network & Infrastructure**
- ![Cisco](https://img.shields.io/badge/Cisco-049BDB?style=for-the-badge&logo=cisco&logoColor=white)
- ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
- ![Firewall](https://img.shields.io/badge/Firewall-E02424?style=for-the-badge&logo=fortinet&logoColor=white)
-- Cisco Packet Tracer, segmentazione VLAN, configurazione ACL, hardening perimetrale (ASA Firewall).
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2B2D31?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
 
-**Systems & Tools**
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CF1?style=for-the-badge&logo=kali-linux&logoColor=white)
- ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-- Amministrazione sistemi Linux/Windows, virtualizzazione con UTM su macOS (architetture ARM).
+- Monitoraggio e analisi log tramite SIEM (Splunk), utilizzo del framework MITRE ATT&CK e attività di Vulnerability Assessment.
+
+<br>
+
+**Network & Infrastructure:**
+
+![Cisco](https://img.shields.io/badge/Cisco-049BDB?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-E02424?style=for-the-badge&logo=fortinet&logoColor=white)
+
+- Progettazione su Cisco Packet Tracer, segmentazione VLAN, configurazione di ACL e hardening perimetrale con ASA Firewall.
+
+<br>
+
+**Systems & Tools:**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CF1?style=for-the-badge&logo=kali-linux&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+- Amministrazione di sistemi Linux e Windows, gestione di laboratori virtuali con UTM su architetture macOS ARM.
 
 ---
 
@@ -44,14 +54,14 @@ Il mio obiettivo è specializzarmi nella **difesa attiva** e nelle **Security Op
 
 ### 📈 Focus Attuale
 - 🎯 Preparazione per la certificazione **Cisco 200-201 CyberOps Associate**.
-- 🛡️ Studio continuo su Threat Hunting e hardening dei sistemi.
+- 🛡️ Studio continuo su procedure di Threat Hunting e hardening dei sistemi.
 
 ---
 
-### 📫 Contatti:
+### 📫 Connettiamoci!
 
 <div align="center">
-  <a href="https://linkedin.com/in/fabiocapano22/">
+  <a href="INSERISCI_QUI_IL_LINK_AL_TUO_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
