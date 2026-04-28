@@ -13,7 +13,7 @@ Una difesa efficace nasce dalla comprensione profonda delle tecniche offensive; 
 
 ### 🔐 Hard Skills
 
-_______________________________________________________________________________________________________________________________________________________
+---
 
 **Security Operations & Analysis**
 
@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 - Monitoraggio log (Splunk), mappatura MITRE ATT&CK, Vulnerability Assessment e analisi della sicurezza web tramite Burp Suite.
 
-_______________________________________________________________________________________________________________________________________________________
+---
 
 **Network & Infrastructure**
 
@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 - Progettazione su Cisco Packet Tracer, segmentazione VLAN, configurazione di ACL e hardening perimetrale con ASA Firewall.
 
-_______________________________________________________________________________________________________________________________________________________
+---
 
 **Systems & Tools**
 
