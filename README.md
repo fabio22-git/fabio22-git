@@ -1,12 +1,12 @@
-# Ciao, sono Fabio! 👋
-### Junior Cyber Security Specialist | Blue Team & SOC Analyst
+# 👨‍💻 whoami
+### Fabio | Junior Cyber Security Specialist | Blue Team & SOC Analyst
 
 ---
 
-### 👤 Chi Sono
-Sono un professionista in formazione presso **EPICODE Institute of Technology**, dove sto completando un Master intensivo di oltre 450 ore in Cybersecurity & Ethical Hacking. 
+### 🔍 Discovery
+[cite_start]Sono un professionista in formazione presso **EPICODE Institute of Technology**, impegnato nel completamento di un Master intensivo di oltre 450 ore in Cybersecurity & Ethical Hacking[cite: 5, 11]. 
 
-Il mio obiettivo è specializzarmi nella **difesa attiva** e nelle **Security Operations**. Credo fermamente che per proteggere un'infrastruttura sia necessario comprendere a fondo le logiche degli attaccanti: per questo unisco una solida base di Ethical Hacking a un focus rigoroso sulla Network Defense e il Vulnerability Management.
+Il mio focus principale è la **difesa attiva** e le **Security Operations**. [cite_start]Approccio la sicurezza con un mindset analitico: studio le logiche degli attaccanti per costruire infrastrutture più resilienti, unendo solide basi di Ethical Hacking a un focus rigoroso su Network Defense e Vulnerability Management[cite: 17, 97].
 
 ---
 
