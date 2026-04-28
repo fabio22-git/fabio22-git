@@ -13,6 +13,7 @@ Una difesa efficace nasce dalla comprensione profonda delle tecniche offensive; 
 
 ### 🛠️ Tech Stack & Competenze
 
+<br>
 
 **Security Operations & Analysis**
 
