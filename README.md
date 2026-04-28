@@ -40,6 +40,8 @@ Una difesa efficace nasce dalla comprensione profonda delle tecniche offensive; 
 
 - Amministrazione di sistemi operativi e gestione di laboratori complessi (pfSense, FlareVM per malware analysis e Metasploitable2 come target vulnerabile) tramite UTM su architetture macOS ARM.
 
+---
+
 ### 🚀 Progetti in Evidenza
 
 - 🛡️ **[Mr. Robot Crew - Progetto Theta](https://github.com/fabio22-git/progetto-theta)**: Progettazione di un'architettura di rete aziendale Zero Trust, segmentazione VLAN e protezione della DMZ.
