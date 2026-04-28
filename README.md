@@ -14,10 +14,10 @@ Il mio obiettivo è specializzarmi nella **difesa attiva** e nelle **Security Op
 
 **Security Operations & Analysis:**
 
+![Nmap](https://img.shields.io/badge/Nmap-2B2D31?style=for-the-badge&logo=nmap&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-2B2D31?style=for-the-badge&logo=nmap&logoColor=white)
 
 - Monitoraggio log (Splunk), mappatura MITRE ATT&CK, Vulnerability Assessment e analisi della sicurezza web tramite Burp Suite.
 
@@ -26,8 +26,8 @@ Il mio obiettivo è specializzarmi nella **difesa attiva** e nelle **Security Op
 **Network & Infrastructure:**
 
 ![Cisco](https://img.shields.io/badge/Cisco-049BDB?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Firewall](https://img.shields.io/badge/Firewall-E02424?style=for-the-badge&logo=fortinet&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 - Progettazione su Cisco Packet Tracer, segmentazione VLAN, configurazione di ACL e hardening perimetrale con ASA Firewall.
 
@@ -35,14 +35,13 @@ Il mio obiettivo è specializzarmi nella **difesa attiva** e nelle **Security Op
 
 **Systems & Tools:**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CF1?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-2B2D31?style=for-the-badge&logo=pfsense&logoColor=white)
-![FlareVM](https://img.shields.io/badge/FlareVM-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Metasploitable2](https://img.shields.io/badge/Metasploitable2-E02424?style=for-the-badge&logo=linux&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![FlareVM](https://img.shields.io/badge/FlareVM-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-- Amministrazione sistemi Linux/Windows e gestione di laboratori complessi (pfSense, FlareVM per malware analysis e Metasploitable2 come target vulnerabile) tramite UTM su architetture macOS ARM.
+- Amministrazione di sistemi operativi e gestione di laboratori complessi (pfSense, FlareVM per malware analysis e Metasploitable2 come target vulnerabile) tramite UTM su architetture macOS ARM.
 
 ---
 
@@ -59,7 +58,7 @@ Il mio obiettivo è specializzarmi nella **difesa attiva** e nelle **Security Op
 
 ---
 
-### 📫 Connettiamoci!
+### 📫 Contatti:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](INSERISCI_QUI_IL_LINK_AL_TUO_LINKEDIN)
 &nbsp;&nbsp;
