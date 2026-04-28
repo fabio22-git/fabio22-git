@@ -19,6 +19,7 @@ Una difesa efficace nasce dalla comprensione profonda delle tecniche offensive; 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
 - Monitoraggio log (Splunk), mappatura MITRE ATT&CK, Vulnerability Assessment e analisi della sicurezza web tramite Burp Suite.
 
 ---
