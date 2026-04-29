@@ -57,7 +57,7 @@ Una difesa efficace nasce dalla comprensione profonda delle tecniche offensive; 
 
 ### 📫 Contatti
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](INSERISCI_QUI_IL_LINK_AL_TUO_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiocapano22/)
 &nbsp;&nbsp;
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-111928?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/fabio22)
 
