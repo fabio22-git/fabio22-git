@@ -46,7 +46,7 @@ Una difesa efficace nasce dalla comprensione profonda delle tecniche offensive; 
 
 - 🛡️ **[Mr. Robot Crew - Progetto Theta](https://github.com/fabio22-git/progetto-theta)**: Progettazione di un'architettura di rete aziendale Zero Trust, segmentazione VLAN e protezione della DMZ.
 - 🔍 **[Matrix Rebels - Security Audit](https://github.com/fabio22-git/matrix-rebels)**: Adversary Emulation, risoluzione di CTF e reportistica tecnica focalizzata sulla mitigazione delle minacce.
-- - 🛡️ **[Cyber Guardians - Malware Analysis](https://github.com/fabio22-git/cyber-guardians)**: Analisi comportamentale a runtime, mappatura delle tattiche di Defense Evasion ed elaborazione di regole YARA custom.
+- ☣️ **[Cyber Guardians - Malware Analysis](https://github.com/fabio22-git/cyber-guardians)**: Analisi comportamentale a runtime, mappatura delle tattiche di Defense Evasion ed elaborazione di regole YARA custom.
 
 ---
 
